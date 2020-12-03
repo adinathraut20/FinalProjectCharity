@@ -1,0 +1,14 @@
+Go to url  >>   https://start.spring.io/
+
+select specifications java version, war, version
+
+ADD dependencies >> Spring Boot DevTools
+		                Spring Web 
+		                Spring Data JPA 
+		                MySQL Driver 
+
+pressbutton >> Generate 
+download zip file
+Extract zip file 
+open Eclipse
+import file >> maven >> choose existing maven >> give to the extracted file path
