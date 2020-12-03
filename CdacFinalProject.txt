@@ -5,3 +5,19 @@ Priyanka
 Mohini
 Vaishnavi
 Shubham
+
+
+github commands:
+
+git init
+git remote add origin https://github.com/adinathraut20/FinalProjectCharity.git
+git pull
+git branch -a
+git checkout remotes/origin/demo
+git switch -c <branch name>
+
+git add .
+git commit -m "message"
+git push origin HEAD:<branch name>
+
+git status
