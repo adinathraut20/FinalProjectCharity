@@ -9,15 +9,15 @@ Shubham
 
 github commands:
 
-git init
-git remote add origin https://github.com/adinathraut20/FinalProjectCharity.git
-git pull
-git branch -a
-git checkout remotes/origin/demo
-git switch -c <branch name>
+git init  //to initialize git 
+git remote add origin https://github.com/adinathraut20/FinalProjectCharity.git   //add remote repo
+git pull   //pull remote repo
+git branch -a   //list all branches
+git checkout remotes/origin/demo    //checkout
+git switch -c <branch name>       //switch branch
 
-git add .
-git commit -m "message"
-git push origin HEAD:<branch name>
+git add .     //add all files to send remote repo
+git commit -m "message"     //commit message
+git push origin HEAD:<branch name>      //upload to remote repo
 
 git status
