@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611584320562_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=povertyLessIndia/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=povertyLessIndia/src\/main\/resources=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611584320586_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=povertyLessIndia/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611584413298_3" label="povertyLessIndia" name="povertyLessIndia">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/povertyLessIndia" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611812949441_4" label="povertyFree" name="povertyFree">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/povertyFree" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1611584331239_2" label="Window Working Set" name="Aggregate for window 1611584331238"/>
+</workingSetManager>

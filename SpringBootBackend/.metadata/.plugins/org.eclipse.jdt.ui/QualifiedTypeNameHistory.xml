@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Service.AdminService"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.Admins"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Repository.AdminRepo"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Repository.NGORepo"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Repository.UserRepo"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Repository.UserMaterialDonateRepo"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Repository.StatesRepo"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Repository.CitiesRepo"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Service.UserService"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.Users"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.Cities"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.States"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Service.NGOService"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.Service.EmailService"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.Message"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.RegisterNewNGO"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.NGO"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.MaterialDonation"/>
+    <fullyQualifiedTypeName name="com.povertyLessIndia.povertyFree.dto.PaytmDetailPojo"/>
+</qualifiedTypeNameHistroy>
