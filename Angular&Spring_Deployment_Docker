@@ -48,7 +48,7 @@ events{}
 http {
     include /etc/nginx/mime.types;
     server {
-        listen 80;
+        listen 4200;
         server_name localhost;
         root /usr/share/nginx/html;
         index index.html;
@@ -77,6 +77,8 @@ COPY PovertyLessIndia  /usr/share/nginx/html
 
 -------------------------------------------------------------------------------
 >npm install crypto-js@3.1.9-1
+npm install crypto-js --save
+npm install @types/crypto-js--save
 
 >systemctl start docker
 >systemctl status docker
